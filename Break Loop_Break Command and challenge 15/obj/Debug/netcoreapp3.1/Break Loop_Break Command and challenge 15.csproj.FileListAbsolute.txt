@@ -1,0 +1,13 @@
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.exe
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.deps.json
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.runtimeconfig.json
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.runtimeconfig.dev.json
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.dll
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.pdb
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.csprojAssemblyReference.cache
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.AssemblyInfoInputs.cache
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.AssemblyInfo.cs
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.csproj.CoreCompileInputs.cache
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.dll
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.pdb
+C:\Users\10-64\source\repos\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\netcoreapp3.1\Break Loop_Break Command and challenge 15.genruntimeconfig.cache
