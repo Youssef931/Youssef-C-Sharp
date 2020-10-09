@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.exe
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.deps.json
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.runtimeconfig.json
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.dll
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.pdb
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.dll
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.pdb
+E:\GetHub\Youssef-C-\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\netcoreapp3.1\Break Loop _ Continue Command and challenge 16.genruntimeconfig.cache
