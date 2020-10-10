@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\bin\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.exe
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\bin\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.deps.json
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\bin\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.runtimeconfig.json
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\bin\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\bin\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.dll
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\bin\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.pdb
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\obj\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\obj\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\obj\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\obj\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\obj\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.dll
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\obj\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.pdb
+E:\GetHub\Youssef-C-\Explicit Conversion and Overflow case\Explicit Conversion and Overflow case\obj\Debug\netcoreapp3.1\Explicit Conversion and Overflow case.genruntimeconfig.cache
