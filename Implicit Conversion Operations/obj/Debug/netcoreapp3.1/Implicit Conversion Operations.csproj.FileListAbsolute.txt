@@ -1,0 +1,13 @@
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\netcoreapp3.1\Implicit Conversion Operations.exe
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\netcoreapp3.1\Implicit Conversion Operations.deps.json
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\netcoreapp3.1\Implicit Conversion Operations.runtimeconfig.json
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\netcoreapp3.1\Implicit Conversion Operations.runtimeconfig.dev.json
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\netcoreapp3.1\Implicit Conversion Operations.dll
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\netcoreapp3.1\Implicit Conversion Operations.pdb
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\netcoreapp3.1\Implicit Conversion Operations.csprojAssemblyReference.cache
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\netcoreapp3.1\Implicit Conversion Operations.AssemblyInfoInputs.cache
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\netcoreapp3.1\Implicit Conversion Operations.AssemblyInfo.cs
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\netcoreapp3.1\Implicit Conversion Operations.csproj.CoreCompileInputs.cache
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\netcoreapp3.1\Implicit Conversion Operations.dll
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\netcoreapp3.1\Implicit Conversion Operations.pdb
+C:\Users\10-64\source\repos\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\netcoreapp3.1\Implicit Conversion Operations.genruntimeconfig.cache
