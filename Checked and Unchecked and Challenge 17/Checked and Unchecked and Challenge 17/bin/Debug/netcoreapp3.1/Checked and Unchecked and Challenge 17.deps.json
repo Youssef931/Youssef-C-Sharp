@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Checked and Unchecked and Challenge 17/1.0.0": {
+        "runtime": {
+          "Checked and Unchecked and Challenge 17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checked and Unchecked and Challenge 17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\bin\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.exe
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\bin\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.deps.json
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\bin\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.runtimeconfig.json
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\bin\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\bin\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.dll
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\bin\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.pdb
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\obj\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\obj\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\obj\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\obj\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\obj\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.dll
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\obj\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.pdb
+E:\GetHub\Youssef-C-\Checked and Unchecked and Challenge 17\Checked and Unchecked and Challenge 17\obj\Debug\netcoreapp3.1\Checked and Unchecked and Challenge 17.genruntimeconfig.cache
