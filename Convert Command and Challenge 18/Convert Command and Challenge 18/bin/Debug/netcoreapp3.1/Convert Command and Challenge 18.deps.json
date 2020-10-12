@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Convert Command and Challenge 18/1.0.0": {
+        "runtime": {
+          "Convert Command and Challenge 18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert Command and Challenge 18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

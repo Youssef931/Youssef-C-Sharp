@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\netcoreapp3.1\Convert Command and Challenge 18.exe
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\netcoreapp3.1\Convert Command and Challenge 18.deps.json
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\netcoreapp3.1\Convert Command and Challenge 18.runtimeconfig.json
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\netcoreapp3.1\Convert Command and Challenge 18.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\netcoreapp3.1\Convert Command and Challenge 18.dll
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\netcoreapp3.1\Convert Command and Challenge 18.pdb
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\netcoreapp3.1\Convert Command and Challenge 18.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\netcoreapp3.1\Convert Command and Challenge 18.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\netcoreapp3.1\Convert Command and Challenge 18.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\netcoreapp3.1\Convert Command and Challenge 18.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\netcoreapp3.1\Convert Command and Challenge 18.dll
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\netcoreapp3.1\Convert Command and Challenge 18.pdb
+E:\GetHub\Youssef-C-\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\netcoreapp3.1\Convert Command and Challenge 18.genruntimeconfig.cache
