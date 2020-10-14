@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\bin\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.exe
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\bin\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.deps.json
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\bin\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.runtimeconfig.json
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\bin\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\bin\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.dll
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\bin\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.pdb
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\obj\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\obj\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\obj\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\obj\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\obj\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.dll
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\obj\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.pdb
+E:\GetHub\Youssef-C-\Input Methods In C Sharp and Challenge 19\Input Methods In C Sharp and Challenge 19\obj\Debug\netcoreapp3.1\Input Methods In C Sharp and Challenge 19.genruntimeconfig.cache
