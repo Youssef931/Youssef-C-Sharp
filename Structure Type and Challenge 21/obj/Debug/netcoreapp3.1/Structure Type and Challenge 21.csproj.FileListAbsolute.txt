@@ -1,0 +1,13 @@
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\netcoreapp3.1\Structure Type and Challenge 21.exe
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\netcoreapp3.1\Structure Type and Challenge 21.deps.json
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\netcoreapp3.1\Structure Type and Challenge 21.runtimeconfig.json
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\netcoreapp3.1\Structure Type and Challenge 21.runtimeconfig.dev.json
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\netcoreapp3.1\Structure Type and Challenge 21.dll
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\netcoreapp3.1\Structure Type and Challenge 21.pdb
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\netcoreapp3.1\Structure Type and Challenge 21.csprojAssemblyReference.cache
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\netcoreapp3.1\Structure Type and Challenge 21.AssemblyInfoInputs.cache
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\netcoreapp3.1\Structure Type and Challenge 21.AssemblyInfo.cs
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\netcoreapp3.1\Structure Type and Challenge 21.csproj.CoreCompileInputs.cache
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\netcoreapp3.1\Structure Type and Challenge 21.dll
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\netcoreapp3.1\Structure Type and Challenge 21.pdb
+C:\Users\10-64\source\repos\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\netcoreapp3.1\Structure Type and Challenge 21.genruntimeconfig.cache
