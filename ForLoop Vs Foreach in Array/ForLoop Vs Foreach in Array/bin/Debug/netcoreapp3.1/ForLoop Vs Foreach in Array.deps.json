@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ForLoop Vs Foreach in Array/1.0.0": {
+        "runtime": {
+          "ForLoop Vs Foreach in Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForLoop Vs Foreach in Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
