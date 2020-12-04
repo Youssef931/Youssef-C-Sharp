@@ -27,7 +27,16 @@ namespace ForLoop_Vs_Foreach_in_Array
             //{
             //    item = "Ahmed";
             //    Console.Write($"{item} ");
+            //}       
+            //*********************************************
+            //21 - (1) - float flmin = float.MinValue;
+            //float flmax = float.MaxValue;
+            //Console.WriteLine($"MiV = {flmin}, MAV = {flmax}");
+            //*********************************************
+            //21 - (2) - float flvar = 1f / 3;
+            //double dlvar = 1d / 3;
+            //decimal decvar = 1m / 3;
+            //Console.WriteLine($"FLV = {flvar} ,DOUV = {dlvar} ,DECV = {decvar}");
             }
         }
     }
-}
