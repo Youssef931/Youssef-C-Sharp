@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\bin\Debug\netcoreapp3.1\Jagged arrays Challenge.exe
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\bin\Debug\netcoreapp3.1\Jagged arrays Challenge.deps.json
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\bin\Debug\netcoreapp3.1\Jagged arrays Challenge.runtimeconfig.json
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\bin\Debug\netcoreapp3.1\Jagged arrays Challenge.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\bin\Debug\netcoreapp3.1\Jagged arrays Challenge.dll
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\bin\Debug\netcoreapp3.1\Jagged arrays Challenge.pdb
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\obj\Debug\netcoreapp3.1\Jagged arrays Challenge.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\obj\Debug\netcoreapp3.1\Jagged arrays Challenge.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\obj\Debug\netcoreapp3.1\Jagged arrays Challenge.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\obj\Debug\netcoreapp3.1\Jagged arrays Challenge.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\obj\Debug\netcoreapp3.1\Jagged arrays Challenge.dll
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\obj\Debug\netcoreapp3.1\Jagged arrays Challenge.pdb
+E:\GetHub\Youssef-C-\Jagged arrays Challenge\Jagged arrays Challenge\obj\Debug\netcoreapp3.1\Jagged arrays Challenge.genruntimeconfig.cache
