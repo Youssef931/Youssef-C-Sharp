@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ToUpper Vs ToLower and Trim Functions/1.0.0": {
+        "runtime": {
+          "ToUpper Vs ToLower and Trim Functions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToUpper Vs ToLower and Trim Functions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

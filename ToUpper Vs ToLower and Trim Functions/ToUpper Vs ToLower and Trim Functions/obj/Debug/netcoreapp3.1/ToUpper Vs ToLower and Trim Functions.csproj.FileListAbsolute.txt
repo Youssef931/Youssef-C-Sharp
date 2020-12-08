@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\bin\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.exe
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\bin\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.deps.json
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\bin\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.runtimeconfig.json
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\bin\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\bin\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.dll
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\bin\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.pdb
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\obj\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\obj\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\obj\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\obj\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\obj\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.dll
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\obj\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.pdb
+E:\GetHub\Youssef-C-\ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions\obj\Debug\netcoreapp3.1\ToUpper Vs ToLower and Trim Functions.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToUpper Vs ToLower and Trim Functions", "ToUpper Vs ToLower and Trim Functions\ToUpper Vs ToLower and Trim Functions.csproj", "{13C1A122-55D1-4822-8D11-D1CF60F5440D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C1A122-55D1-4822-8D11-D1CF60F5440D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C1A122-55D1-4822-8D11-D1CF60F5440D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C1A122-55D1-4822-8D11-D1CF60F5440D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C1A122-55D1-4822-8D11-D1CF60F5440D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A25BA1C-1C13-4048-B384-9B4C9E4EB588}
+	EndGlobalSection
+EndGlobal
