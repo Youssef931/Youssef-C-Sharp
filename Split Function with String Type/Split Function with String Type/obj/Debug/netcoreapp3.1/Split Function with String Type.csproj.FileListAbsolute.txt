@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\bin\Debug\netcoreapp3.1\Split Function with String Type.exe
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\bin\Debug\netcoreapp3.1\Split Function with String Type.deps.json
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\bin\Debug\netcoreapp3.1\Split Function with String Type.runtimeconfig.json
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\bin\Debug\netcoreapp3.1\Split Function with String Type.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\bin\Debug\netcoreapp3.1\Split Function with String Type.dll
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\bin\Debug\netcoreapp3.1\Split Function with String Type.pdb
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\obj\Debug\netcoreapp3.1\Split Function with String Type.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\obj\Debug\netcoreapp3.1\Split Function with String Type.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\obj\Debug\netcoreapp3.1\Split Function with String Type.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\obj\Debug\netcoreapp3.1\Split Function with String Type.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\obj\Debug\netcoreapp3.1\Split Function with String Type.dll
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\obj\Debug\netcoreapp3.1\Split Function with String Type.pdb
+E:\GetHub\Youssef-C-\Split Function with String Type\Split Function with String Type\obj\Debug\netcoreapp3.1\Split Function with String Type.genruntimeconfig.cache
