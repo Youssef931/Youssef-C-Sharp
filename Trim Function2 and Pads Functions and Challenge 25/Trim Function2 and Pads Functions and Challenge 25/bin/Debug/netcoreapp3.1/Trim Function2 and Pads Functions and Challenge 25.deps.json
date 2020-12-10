@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Trim Function2 and Pads Functions and Challenge 25/1.0.0": {
+        "runtime": {
+          "Trim Function2 and Pads Functions and Challenge 25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trim Function2 and Pads Functions and Challenge 25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
