@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MinimumValue Function and challenge 26/1.0.0": {
+        "runtime": {
+          "MinimumValue Function and challenge 26.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimumValue Function and challenge 26/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

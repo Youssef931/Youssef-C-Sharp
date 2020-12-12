@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\bin\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.exe
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\bin\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.deps.json
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\bin\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.runtimeconfig.json
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\bin\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\bin\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.dll
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\bin\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.pdb
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\obj\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\obj\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\obj\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\obj\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\obj\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.dll
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\obj\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.pdb
+E:\GetHub\Youssef-C-\MinimumValue Function and challenge 26\MinimumValue Function and challenge 26\obj\Debug\netcoreapp3.1\MinimumValue Function and challenge 26.genruntimeconfig.cache
