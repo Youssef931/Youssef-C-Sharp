@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Return Value Functions in CSharp/1.0.0": {
+        "runtime": {
+          "Return Value Functions in CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Return Value Functions in CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

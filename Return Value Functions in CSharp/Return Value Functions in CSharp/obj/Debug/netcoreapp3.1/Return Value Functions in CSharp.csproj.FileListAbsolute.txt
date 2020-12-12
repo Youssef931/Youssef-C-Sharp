@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\bin\Debug\netcoreapp3.1\Return Value Functions in CSharp.exe
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\bin\Debug\netcoreapp3.1\Return Value Functions in CSharp.deps.json
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\bin\Debug\netcoreapp3.1\Return Value Functions in CSharp.runtimeconfig.json
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\bin\Debug\netcoreapp3.1\Return Value Functions in CSharp.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\bin\Debug\netcoreapp3.1\Return Value Functions in CSharp.dll
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\bin\Debug\netcoreapp3.1\Return Value Functions in CSharp.pdb
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\obj\Debug\netcoreapp3.1\Return Value Functions in CSharp.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\obj\Debug\netcoreapp3.1\Return Value Functions in CSharp.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\obj\Debug\netcoreapp3.1\Return Value Functions in CSharp.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\obj\Debug\netcoreapp3.1\Return Value Functions in CSharp.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\obj\Debug\netcoreapp3.1\Return Value Functions in CSharp.dll
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\obj\Debug\netcoreapp3.1\Return Value Functions in CSharp.pdb
+E:\GetHub\Youssef-C-\Return Value Functions in CSharp\Return Value Functions in CSharp\obj\Debug\netcoreapp3.1\Return Value Functions in CSharp.genruntimeconfig.cache
