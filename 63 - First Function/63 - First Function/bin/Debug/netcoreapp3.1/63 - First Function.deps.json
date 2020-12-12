@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "63 - First Function/1.0.0": {
+        "runtime": {
+          "63 - First Function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "63 - First Function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

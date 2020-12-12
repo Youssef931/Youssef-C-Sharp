@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\bin\Debug\netcoreapp3.1\63 - First Function.exe
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\bin\Debug\netcoreapp3.1\63 - First Function.deps.json
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\bin\Debug\netcoreapp3.1\63 - First Function.runtimeconfig.json
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\bin\Debug\netcoreapp3.1\63 - First Function.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\bin\Debug\netcoreapp3.1\63 - First Function.dll
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\bin\Debug\netcoreapp3.1\63 - First Function.pdb
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\obj\Debug\netcoreapp3.1\63 - First Function.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\obj\Debug\netcoreapp3.1\63 - First Function.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\obj\Debug\netcoreapp3.1\63 - First Function.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\obj\Debug\netcoreapp3.1\63 - First Function.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\obj\Debug\netcoreapp3.1\63 - First Function.dll
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\obj\Debug\netcoreapp3.1\63 - First Function.pdb
+E:\GetHub\Youssef-C-\63 - First Function\63 - First Function\obj\Debug\netcoreapp3.1\63 - First Function.genruntimeconfig.cache
