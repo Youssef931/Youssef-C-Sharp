@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\netcoreapp3.1\Variable Scope in Structures.exe
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\netcoreapp3.1\Variable Scope in Structures.deps.json
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\netcoreapp3.1\Variable Scope in Structures.runtimeconfig.json
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\netcoreapp3.1\Variable Scope in Structures.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\netcoreapp3.1\Variable Scope in Structures.dll
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\netcoreapp3.1\Variable Scope in Structures.pdb
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\netcoreapp3.1\Variable Scope in Structures.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\netcoreapp3.1\Variable Scope in Structures.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\netcoreapp3.1\Variable Scope in Structures.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\netcoreapp3.1\Variable Scope in Structures.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\netcoreapp3.1\Variable Scope in Structures.dll
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\netcoreapp3.1\Variable Scope in Structures.pdb
+E:\GetHub\Youssef-C-\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\netcoreapp3.1\Variable Scope in Structures.genruntimeconfig.cache
