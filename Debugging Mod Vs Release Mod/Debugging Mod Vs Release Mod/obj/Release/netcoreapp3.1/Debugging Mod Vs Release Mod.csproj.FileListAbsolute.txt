@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.exe
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.deps.json
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.runtimeconfig.json
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.dll
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.pdb
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.dll
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.pdb
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.genruntimeconfig.cache
+E:\GetHub\Youssef-C-\Debugging Mod Vs Release Mod\Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\Debugging Mod Vs Release Mod.csprojAssemblyReference.cache
