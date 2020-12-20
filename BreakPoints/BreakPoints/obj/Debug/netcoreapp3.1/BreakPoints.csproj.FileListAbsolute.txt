@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\obj\Debug\netcoreapp3.1\BreakPoints.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\obj\Debug\netcoreapp3.1\BreakPoints.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\obj\Debug\netcoreapp3.1\BreakPoints.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\obj\Debug\netcoreapp3.1\BreakPoints.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\bin\Debug\netcoreapp3.1\BreakPoints.exe
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\bin\Debug\netcoreapp3.1\BreakPoints.deps.json
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\bin\Debug\netcoreapp3.1\BreakPoints.runtimeconfig.json
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\bin\Debug\netcoreapp3.1\BreakPoints.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\bin\Debug\netcoreapp3.1\BreakPoints.dll
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\bin\Debug\netcoreapp3.1\BreakPoints.pdb
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\obj\Debug\netcoreapp3.1\BreakPoints.dll
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\obj\Debug\netcoreapp3.1\BreakPoints.pdb
+E:\GetHub\Youssef-C-\BreakPoints\BreakPoints\obj\Debug\netcoreapp3.1\BreakPoints.genruntimeconfig.cache
