@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.exe
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.deps.json
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.runtimeconfig.json
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.dll
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.pdb
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.dll
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.pdb
+E:\GetHub\Youssef-C-\83 - Using Namespaces in Practical\83 - Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83 - Using Namespaces in Practical.genruntimeconfig.cache
