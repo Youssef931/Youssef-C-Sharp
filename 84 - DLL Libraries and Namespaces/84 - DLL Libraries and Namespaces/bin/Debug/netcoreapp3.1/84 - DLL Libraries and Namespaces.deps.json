@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "84 - DLL Libraries and Namespaces/1.0.0": {
+        "dependencies": {
+          "OB": "1.0.0",
+          "YB": "1.0.0"
+        },
+        "runtime": {
+          "84 - DLL Libraries and Namespaces.dll": {}
+        }
+      },
+      "OB/1.0.0": {
+        "runtime": {
+          "OB.dll": {}
+        }
+      },
+      "YB/1.0.0": {
+        "runtime": {
+          "YB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "84 - DLL Libraries and Namespaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

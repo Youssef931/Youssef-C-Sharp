@@ -1,0 +1,9 @@
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\bin\Debug\netstandard2.0\YB.deps.json
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\bin\Debug\netstandard2.0\YB.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\bin\Debug\netstandard2.0\YB.pdb
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\obj\Debug\netstandard2.0\YB.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\obj\Debug\netstandard2.0\YB.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\obj\Debug\netstandard2.0\YB.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\obj\Debug\netstandard2.0\YB.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\obj\Debug\netstandard2.0\YB.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\YB\obj\Debug\netstandard2.0\YB.pdb

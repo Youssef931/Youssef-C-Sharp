@@ -1,0 +1,18 @@
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.exe
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.deps.json
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.runtimeconfig.json
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.pdb
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\OB.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\YB.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\OB.pdb
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\YB.pdb
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.csproj.CopyComplete
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.pdb
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\84 - DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84 - DLL Libraries and Namespaces.genruntimeconfig.cache

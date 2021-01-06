@@ -1,0 +1,9 @@
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\obj\Debug\netstandard2.0\OB.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\obj\Debug\netstandard2.0\OB.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\obj\Debug\netstandard2.0\OB.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\obj\Debug\netstandard2.0\OB.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\bin\Debug\netstandard2.0\OB.deps.json
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\bin\Debug\netstandard2.0\OB.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\bin\Debug\netstandard2.0\OB.pdb
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\obj\Debug\netstandard2.0\OB.dll
+E:\GetHub\Youssef-C-\84 - DLL Libraries and Namespaces\OB\obj\Debug\netstandard2.0\OB.pdb
