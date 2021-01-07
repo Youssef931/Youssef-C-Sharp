@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbwQbd+FV7ILfsOzMF7RNeDANcohKnQ/2ZYVA30h5EKQen1+j9tfqlLOvB4cSzF9eDNwaeq57EC3ePn21rgKrQ==",
+  "success": true,
+  "projectFilePath": "E:\\GetHub\\Youssef-C-\\85 - Lambda Expression and Challenge 30 2\\Delegate Type\\Delegate Type.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\10-64\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\10-64\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\bin\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.exe
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\bin\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.deps.json
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\bin\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.runtimeconfig.json
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\bin\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\bin\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.dll
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\bin\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.pdb
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\obj\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\obj\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\obj\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\obj\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\obj\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.dll
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\obj\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.pdb
+E:\GetHub\Youssef-C-\85 - Lambda Expression and Challenge 30 2\85 - Lambda Expression and Challenge 30 2\obj\Debug\netcoreapp3.1\85 - Lambda Expression and Challenge 30 2.genruntimeconfig.cache
