@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "86 - Nullable Types/1.0.0": {
+        "runtime": {
+          "86 - Nullable Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "86 - Nullable Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
