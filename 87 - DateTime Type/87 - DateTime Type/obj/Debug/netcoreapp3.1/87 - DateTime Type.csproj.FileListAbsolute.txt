@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\bin\Debug\netcoreapp3.1\87 - DateTime Type.exe
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\bin\Debug\netcoreapp3.1\87 - DateTime Type.deps.json
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\bin\Debug\netcoreapp3.1\87 - DateTime Type.runtimeconfig.json
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\bin\Debug\netcoreapp3.1\87 - DateTime Type.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\bin\Debug\netcoreapp3.1\87 - DateTime Type.dll
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\bin\Debug\netcoreapp3.1\87 - DateTime Type.pdb
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\obj\Debug\netcoreapp3.1\87 - DateTime Type.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\obj\Debug\netcoreapp3.1\87 - DateTime Type.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\obj\Debug\netcoreapp3.1\87 - DateTime Type.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\obj\Debug\netcoreapp3.1\87 - DateTime Type.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\obj\Debug\netcoreapp3.1\87 - DateTime Type.dll
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\obj\Debug\netcoreapp3.1\87 - DateTime Type.pdb
+E:\GetHub\Youssef-C-\87 - DateTime Type\87 - DateTime Type\obj\Debug\netcoreapp3.1\87 - DateTime Type.genruntimeconfig.cache
