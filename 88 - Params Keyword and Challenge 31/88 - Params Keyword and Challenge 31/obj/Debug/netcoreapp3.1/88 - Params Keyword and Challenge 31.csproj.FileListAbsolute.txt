@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\bin\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.exe
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\bin\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.deps.json
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\bin\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.runtimeconfig.json
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\bin\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\bin\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.dll
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\bin\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.pdb
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\obj\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\obj\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\obj\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\obj\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\obj\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.dll
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\obj\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.pdb
+E:\GetHub\Youssef-C-\88 - Params Keyword and Challenge 31\88 - Params Keyword and Challenge 31\obj\Debug\netcoreapp3.1\88 - Params Keyword and Challenge 31.genruntimeconfig.cache
