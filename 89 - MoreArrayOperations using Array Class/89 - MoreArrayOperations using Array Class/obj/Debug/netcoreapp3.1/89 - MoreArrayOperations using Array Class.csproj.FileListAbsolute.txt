@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.exe
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.deps.json
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.runtimeconfig.json
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.dll
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.pdb
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.dll
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.pdb
+E:\GetHub\Youssef-C-\89 - MoreArrayOperations using Array Class\89 - MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89 - MoreArrayOperations using Array Class.genruntimeconfig.cache
