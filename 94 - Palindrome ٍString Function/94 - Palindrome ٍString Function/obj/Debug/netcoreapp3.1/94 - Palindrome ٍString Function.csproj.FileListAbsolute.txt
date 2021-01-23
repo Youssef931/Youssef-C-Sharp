@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\obj\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\obj\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\obj\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\obj\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\bin\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.exe
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\bin\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.deps.json
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\bin\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.runtimeconfig.json
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\bin\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\bin\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.dll
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\bin\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.pdb
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\obj\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.dll
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\obj\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.pdb
+E:\GetHub\Youssef-C-\94 - Palindrome ٍString Function\94 - Palindrome ٍString Function\obj\Debug\netcoreapp3.1\94 - Palindrome ٍString Function.genruntimeconfig.cache
