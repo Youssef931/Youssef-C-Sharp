@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\bin\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.exe
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\bin\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.deps.json
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\bin\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.runtimeconfig.json
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\bin\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\bin\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.dll
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\bin\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.pdb
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\obj\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\obj\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\obj\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\obj\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\obj\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.dll
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\obj\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.pdb
+E:\GetHub\Youssef-C-\Revision on 12, 21, 22 And 23\Revision on 12, 21, 22 And 23\obj\Debug\netcoreapp3.1\Revision on 12, 21, 22 And 23.genruntimeconfig.cache
