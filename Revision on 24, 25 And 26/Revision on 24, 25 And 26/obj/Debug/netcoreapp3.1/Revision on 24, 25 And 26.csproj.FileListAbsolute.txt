@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\bin\Debug\netcoreapp3.1\Revision on 24, 25 And 26.exe
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\bin\Debug\netcoreapp3.1\Revision on 24, 25 And 26.deps.json
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\bin\Debug\netcoreapp3.1\Revision on 24, 25 And 26.runtimeconfig.json
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\bin\Debug\netcoreapp3.1\Revision on 24, 25 And 26.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\bin\Debug\netcoreapp3.1\Revision on 24, 25 And 26.dll
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\bin\Debug\netcoreapp3.1\Revision on 24, 25 And 26.pdb
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\obj\Debug\netcoreapp3.1\Revision on 24, 25 And 26.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\obj\Debug\netcoreapp3.1\Revision on 24, 25 And 26.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\obj\Debug\netcoreapp3.1\Revision on 24, 25 And 26.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\obj\Debug\netcoreapp3.1\Revision on 24, 25 And 26.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\obj\Debug\netcoreapp3.1\Revision on 24, 25 And 26.dll
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\obj\Debug\netcoreapp3.1\Revision on 24, 25 And 26.pdb
+E:\GetHub\Youssef-C-\Revision on 24, 25 And 26\Revision on 24, 25 And 26\obj\Debug\netcoreapp3.1\Revision on 24, 25 And 26.genruntimeconfig.cache
