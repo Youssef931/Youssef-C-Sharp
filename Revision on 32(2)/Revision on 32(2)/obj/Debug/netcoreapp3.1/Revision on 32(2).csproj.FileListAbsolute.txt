@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\bin\Debug\netcoreapp3.1\Revision on 32(2).exe
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\bin\Debug\netcoreapp3.1\Revision on 32(2).deps.json
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\bin\Debug\netcoreapp3.1\Revision on 32(2).runtimeconfig.json
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\bin\Debug\netcoreapp3.1\Revision on 32(2).runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\bin\Debug\netcoreapp3.1\Revision on 32(2).dll
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\bin\Debug\netcoreapp3.1\Revision on 32(2).pdb
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\obj\Debug\netcoreapp3.1\Revision on 32(2).csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\obj\Debug\netcoreapp3.1\Revision on 32(2).AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\obj\Debug\netcoreapp3.1\Revision on 32(2).AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\obj\Debug\netcoreapp3.1\Revision on 32(2).csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\obj\Debug\netcoreapp3.1\Revision on 32(2).dll
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\obj\Debug\netcoreapp3.1\Revision on 32(2).pdb
+E:\GetHub\Youssef-C-\Revision on 32(2)\Revision on 32(2)\obj\Debug\netcoreapp3.1\Revision on 32(2).genruntimeconfig.cache
