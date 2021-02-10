@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\bin\Debug\netcoreapp3.1\Revision on 34 And 36.exe
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\bin\Debug\netcoreapp3.1\Revision on 34 And 36.deps.json
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\bin\Debug\netcoreapp3.1\Revision on 34 And 36.runtimeconfig.json
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\bin\Debug\netcoreapp3.1\Revision on 34 And 36.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\bin\Debug\netcoreapp3.1\Revision on 34 And 36.dll
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\bin\Debug\netcoreapp3.1\Revision on 34 And 36.pdb
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\obj\Debug\netcoreapp3.1\Revision on 34 And 36.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\obj\Debug\netcoreapp3.1\Revision on 34 And 36.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\obj\Debug\netcoreapp3.1\Revision on 34 And 36.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\obj\Debug\netcoreapp3.1\Revision on 34 And 36.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\obj\Debug\netcoreapp3.1\Revision on 34 And 36.dll
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\obj\Debug\netcoreapp3.1\Revision on 34 And 36.pdb
+E:\GetHub\Youssef-C-\Revision on 34 And 36\Revision on 34 And 36\obj\Debug\netcoreapp3.1\Revision on 34 And 36.genruntimeconfig.cache

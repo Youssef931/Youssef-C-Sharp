@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Revision on 34 And 36/1.0.0": {
+        "runtime": {
+          "Revision on 34 And 36.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revision on 34 And 36/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
