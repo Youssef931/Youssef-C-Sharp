@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\bin\Debug\netcoreapp3.1\Revision on 43.exe
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\bin\Debug\netcoreapp3.1\Revision on 43.deps.json
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\bin\Debug\netcoreapp3.1\Revision on 43.runtimeconfig.json
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\bin\Debug\netcoreapp3.1\Revision on 43.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\bin\Debug\netcoreapp3.1\Revision on 43.dll
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\bin\Debug\netcoreapp3.1\Revision on 43.pdb
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\obj\Debug\netcoreapp3.1\Revision on 43.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\obj\Debug\netcoreapp3.1\Revision on 43.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\obj\Debug\netcoreapp3.1\Revision on 43.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\obj\Debug\netcoreapp3.1\Revision on 43.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\obj\Debug\netcoreapp3.1\Revision on 43.dll
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\obj\Debug\netcoreapp3.1\Revision on 43.pdb
+E:\GetHub\Youssef-C-\Revision on 43\Revision on 43\obj\Debug\netcoreapp3.1\Revision on 43.genruntimeconfig.cache
