@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.exe
+E:\GetHub\Youssef-C-\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.deps.json
+E:\GetHub\Youssef-C-\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.runtimeconfig.json
+E:\GetHub\Youssef-C-\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.dll
+E:\GetHub\Youssef-C-\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.pdb
+E:\GetHub\Youssef-C-\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.dll
+E:\GetHub\Youssef-C-\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.pdb
+E:\GetHub\Youssef-C-\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.genruntimeconfig.cache
