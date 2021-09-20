@@ -1,0 +1,13 @@
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.exe
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.deps.json
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.runtimeconfig.json
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.runtimeconfig.dev.json
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.dll
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.pdb
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.csprojAssemblyReference.cache
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.AssemblyInfoInputs.cache
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.AssemblyInfo.cs
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.csproj.CoreCompileInputs.cache
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.dll
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.pdb
+E:\GetHub\Youssef-C-\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.genruntimeconfig.cache
